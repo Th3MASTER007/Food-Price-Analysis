@@ -17,7 +17,7 @@ This project provides a solution for food price analysis across multiple website
 - Edit Distance algorithm for word completion and suggestions
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/AnkurMangroliya/Food-Price-Analysis.git`
+1. Clone the repository: `git clone https://github.com/Th3MASTER007/Food-Price-Analysis.git'
 2. Navigate to the project directory: `cd food-price-analysis`
 3. Navigate to src folder and run Mainscraper code.
 
